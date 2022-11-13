@@ -1,6 +1,6 @@
 {
   "name": "@dataplug/tasenor-common-plugins",
-  "version": "1.8.11",
+  "version": "1.8.12",
   "main": "index.js",
   "repository": "git@bitbucket.org:dataplug2/tasenor-plugins.git",
   "author": "Tommi Ronkainen <tommi.ronkainen@gmail.com>",
