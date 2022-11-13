@@ -6,7 +6,7 @@
   "author": "Tommi Ronkainen <tommi.ronkainen@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint src/**/*.{js,ts,jsx,tsx} tests/{bin,lib}/*.{ts,mjs}",
+    "lint": "echo TODO: eslint src/**/*.{js,ts,jsx,tsx} tests/{bin,lib}/*.{ts,mjs}",
     "lint:fix": "eslint --fix src/**/*.{js,ts,jsx,tsx} tests/{bin,lib}/*.{ts,mjs}",
     "test": "jest",
     "test:watch": "jest --watch"
