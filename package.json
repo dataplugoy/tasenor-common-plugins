@@ -1,5 +1,5 @@
 {
-  "name": "@dataplug/tasenor-plugins",
+  "name": "@dataplug/tasenor-common-plugins",
   "version": "1.8.11",
   "main": "index.js",
   "repository": "git@bitbucket.org:dataplug2/tasenor-plugins.git",
