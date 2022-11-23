@@ -1067,7 +1067,7 @@
 
 "@dataplug/tasenor-common-node@git+ssh://git@github.com:dataplugoy/tasenor-common-node.git":
   version "1.8.11"
-  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common-node.git#02c1be551884c0de29f335617ec859fc950c76b1"
+  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common-node.git#562aff96060f86b899e3723e755f5ca7d6ad0c1b"
   dependencies:
     "@dataplug/tasenor-common" "git+ssh://git@github.com:dataplugoy/tasenor-common.git"
     "@vscode/sqlite3" "^5.0.7"
