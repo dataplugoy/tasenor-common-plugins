@@ -1067,7 +1067,7 @@
 
 "@dataplug/tasenor-common-node@git+ssh://git@github.com:dataplugoy/tasenor-common-node.git":
   version "1.8.11"
-  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common-node.git#b224ccc594bcd8f3983ecd571ae46b346ba2c41b"
+  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common-node.git#80baf415484d5462884f0f19fcb6db2020d1e8f9"
   dependencies:
     "@dataplug/tasenor-common" "git+ssh://git@github.com:dataplugoy/tasenor-common.git"
     "@vscode/sqlite3" "^5.0.7"
@@ -1097,7 +1097,7 @@
 
 "@dataplug/tasenor-common-ui@git+ssh://git@github.com:dataplugoy/tasenor-common-ui.git":
   version "1.8.11"
-  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common-ui.git#6d0893ec1f0070ac13a39959f98a1ce841d4848c"
+  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common-ui.git#7c00aa068fd26ec5652416bac0bc151844510cea"
   dependencies:
     "@dataplug/tasenor-common" "git+ssh://git@github.com:dataplugoy/tasenor-common.git"
     base64-arraybuffer "1.0.2"
@@ -1109,7 +1109,7 @@
 
 "@dataplug/tasenor-common@git+ssh://git@github.com:dataplugoy/tasenor-common.git":
   version "1.8.11"
-  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common.git#111ad2c0448a7b967b3ead409db19790a40a7d99"
+  resolved "git+ssh://git@github.com:dataplugoy/tasenor-common.git#f2705babb27f5faf7bac6433855dba4e43764285"
   dependencies:
     "@typescript-eslint/eslint-plugin" "5.35.1"
     "@typescript-eslint/parser" "5.35.1"
